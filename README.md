@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="IMG-20210824-WA0307.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="IMG-20210824-WA0306.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="SATHAN.." src="https://img.shields.io/badge/SATHAN..-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
