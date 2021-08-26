@@ -1,4 +1,4 @@
-  
+{
     "name": "SATHAN.. BY DEVILSATHAN",
     "description": "SATHAN.. bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://raw.githubusercontent.com/DEVILSATHAN/SATHAN../master/SATHAN..-407x400.png",
@@ -214,4 +214,4 @@
     "buildpacks": [{
       "url": "heroku-community/apt"
       }]
-  }   
+  }
